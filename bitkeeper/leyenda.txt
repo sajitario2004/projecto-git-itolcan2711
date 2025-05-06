@@ -1,0 +1,1 @@
+“Bitkeeper fue la herramienta propietaria en la que se inspiró Linus Torvalds para crear git” 
